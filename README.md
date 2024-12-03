@@ -7,7 +7,10 @@ Welcome to my **Advent of Code 2023** solutions repository! This repo contains m
 ## About
 Advent of Code is a fun and challenging way to improve problem-solving skills. Each day in December features a new two-part puzzle. Check it out here: [Advent of Code 2023](https://adventofcode.com/2023).
 
----
+## Languages and Tools Used
+- **Primary Language:** [Python](https://www.python.org/) 
+- **Additional Tools:**
+  - Jupyter Notebooks for visualization.
 
 ## Directory Structure
 ```plaintext
