@@ -1,4 +1,4 @@
-# AdventOfCode_2023 🎄
+# Advent Of Code 2023 🎄
 
 Welcome to my **Advent of Code 2023** solutions repository! This repo contains my Jupyter Notebook-based solutions for each day's puzzles.  
 
